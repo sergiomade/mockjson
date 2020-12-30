@@ -1,0 +1,34 @@
+{
+  "productos": [
+    {
+      "id": 3,
+      "nombre": "Jugo de Naranja",
+      "precio": "35"
+    },
+    {
+      "id": 4,
+      "nombre": "Rib Eye 800g",
+      "precio": "875"
+    },
+    {
+      "nombre": "Jugo de Fresa",
+      "precio": "200",
+      "id": 5
+    },
+    {
+      "nombre": "Rib bye 16 onzas",
+      "precio": "875",
+      "id": 6
+    },
+    {
+      "nombre": "Papas Fritas Lay",
+      "precio": 35,
+      "id": 8
+    },
+    {
+      "nombre": "Azucar Crema Cisne 16 onz",
+      "precio": "40",
+      "id": 14
+    }
+  ]
+}
